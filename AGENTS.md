@@ -2,7 +2,7 @@
 
 <!-- Last reviewed: 2026-10-17 -->
 
-JEMI-Labs fork of [tmewett/BrogueCE](https://github.com/tmewett/BrogueCE), kept as a **design-research reference for [Darkhold](https://github.com/JEMI-Labs/Darkhold)**: John plays the release build, and agents read the real source when Darkhold's genre-canon-first rule (`Darkhold/Design-Docs/DESIGN_PRINCIPLES.md` §1) asks "what does Brogue do?". Upstream's own docs (`README.md`, `BUILD.md`, `CONTRIBUTING.md`) still apply to the game itself.
+JEMI-Labs fork of [tmewett/BrogueCE](https://github.com/tmewett/BrogueCE), kept as a **design-research reference for [Darkhold](https://github.com/JEMI-Labs/Darkhold)**: John plays the release build, and agents read the real source when Darkhold's genre-canon-first rule (`Darkhold/Design-Docs/DESIGN_PRINCIPLES.md` §1) asks "what does Brogue do?". **Scope is gameplay mechanics and systems patterns only** — Brogue's ASCII, terminal-era UI is not a reference for Darkhold's presentation or UX. Upstream's own docs (`README.md`, `BUILD.md`, `CONTRIBUTING.md`) still apply to the game itself.
 
 ## Ground rules
 
